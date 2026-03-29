@@ -58,23 +58,7 @@ This project aims to bridge that gap using AI techniques.
 
 ---
 
-##  Project Structure
 
-Smart-Student-Assistant/
-│
-├── data/
-│   └── student_data.csv        # Dataset
-│
-├── model/
-│   └── train_model.py         # ML model training
-│
-├── prolog/
-│   └── rules.pl               # Prolog rules
-│
-├── app/
-│   └── main.py                # Main application
-│
-└── README.md
 ```
 
 ---
@@ -175,13 +159,6 @@ Advice: You are doing well, keep it up!
 pip install pandas scikit-learn
 
 
-Future Enhancements
-
-*  Web-based interface using Flask
-* Chatbot using NLP techniques
-* Advanced ML models (Decision Tree, Random Forest)
-* Real-world dataset integration
-*  Graph-based performance visualization
 
 ---
 
