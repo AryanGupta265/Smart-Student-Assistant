@@ -1,7 +1,9 @@
 # Smart-Student-Assistant
 Name-Aryan Gupta
 
-B.Tech -CSE (AI & ML)
+Registration number-25BAI11516
+
+B.Tech CSE (AI & ML)
 
 VIT BHOPAL
 
