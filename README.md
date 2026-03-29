@@ -1,5 +1,5 @@
 # Smart-Student-Assistant
-Author-Aryan Gupta
+Name-Aryan Gupta
 
 B.Tech -CSE (AI & ML)
 
