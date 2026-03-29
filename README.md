@@ -1,4 +1,4 @@
-# Smart-Student-Assistant
+# Smart-Student-Assistant (AI AND ML PROJECT)
 Name-Aryan Gupta
 
 Registration number-25BAI11516
