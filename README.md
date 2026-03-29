@@ -1,5 +1,5 @@
 # Smart-Student-Assistant
-👨‍💻 Author-Aryan Gupta
+Author-Aryan Gupta
 B.Tech -CSE (AI & ML)
 VIT BHOPAL
 #  Smart Student Assistant (AI + ML + Prolog)
